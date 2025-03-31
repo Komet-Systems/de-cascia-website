@@ -2,7 +2,7 @@
 
 <h1 align="center">DE CASCIA</h1>
 
-🚀 **Visítalo aquí:** [➡️ **Ver sitio web**](https://decascia.com/)
+🚀 **Click here:** [➡️ **Website**](https://decascia.com/)
 
 ###
 
@@ -39,5 +39,5 @@
 </div>
 
 ###
-## 📫 Contacto
-Contactanos en [komet.sys@gmail.com](mailto:komet.sys@gmail.com)
+## 📫 Contact us!
+Email us [komet.sys@gmail.com](mailto:komet.sys@gmail.com)
