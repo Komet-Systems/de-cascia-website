@@ -35,7 +35,8 @@
 ###
 
 <div align="left">
-  <img height="400" src="screen.png" />
+  <img height="300" src="screen.png" />
+  <img height="250" src="pc.png" />
 </div>
 
 ###
